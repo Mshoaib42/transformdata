@@ -1,0 +1,286 @@
+[
+    {
+        "availabilities": [
+            {
+                "dayOfWeek": 1,
+                "endTime": "17:00",
+                "startTime": "09:00"
+            }
+        ],
+        "bundles": {},
+        "categories": [
+            {
+                "name": "Chicken",
+                "description": "Delicious chicken, cooked to perfection",
+                "descriptionTranslations": {},
+                "nameTranslations": {},
+                "account": "60c9c64662af8db836d7aa1a",
+                "posLocationId": "",
+                "posCategoryType": "",
+                "posCategoryId": "",
+                "imageUrl": 
+"https://resizer.staging.deliverect.com/qVTtEOAvgLDOiTSPatLTgSZQ8GQdQt_pFBsFrdYXXLI/rt:fill/g:ce/el:0/cb:40dcbbd873d642759cd299be17c0ca46/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2lrb25hLWJ1Y2tldC1zdGFnaW5nL2ltYWdlcy81ZmY2ZWUwODkzMjhjOGFlZmVlYWJlMzMvRnJpZWQtQ2hpY2tlbi0yLTItNjIyYTJjZWJkYjU5ODYwMDFlYmY1OGY3LmpwZWc=.jpg",
+                "subCategories": [],
+                "products": [
+                    "632122cd0a6043d29e36098d"
+                ],
+                "availabilities": [],
+                "level": 1,
+                "menu": "63211fe2063a12ba6032fe9b",
+                "subProducts": [
+                    "632122cd0a6043d29e36098d"
+                ],
+                "subProductSortOrder": []
+            },
+            {
+                "name": "Steaks",
+                "description": "",
+                "descriptionTranslations": {},
+                "nameTranslations": {},
+                "account": "60c9c64662af8db836d7aa1a",
+                "posLocationId": "",
+                "posCategoryType": "",
+                "posCategoryId": "",
+                "subCategories": [],
+                "products": [
+                    "63211fe1063a12ba6032fe6d"
+                ],
+                "availabilities": [],
+                "level": 1,
+                "menu": "63211fe2063a12ba6032fe9b",
+                "sortedChannelProductIds": [],
+                "subProducts": [
+                    "63211fe1063a12ba6032fe6d"
+                ],
+                "subProductSortOrder": []
+            }
+        ],
+        "channelLinkId": "626a**********ce3ce2",
+        "currency": 4,
+        "description": "A sample menu of various product configurations, enjoy! ",
+        "descriptionTranslations": {},
+        "menu": "Example Menu",
+        "menuId": "63211fe2063a12ba6032fe9b",
+        "modifierGroups": {
+            "63211fe1063a12ba6032fe65": {
+                "_id": "63211fe1063a12ba6032fe65",
+                "name": "Choose a sauce",
+                "description": "",
+                "descriptionTranslations": {},
+                "nameTranslations": {},
+                "account": "60c9c64662af8db836d7aa1a",
+                "capacityUsages": [],
+                "deliveryTax": 9000,
+                "eatInTax": 9000,
+                "location": "61162720f1ba14ed8130f3df",
+                "max": 3,
+                "min": 0,
+                "multiMax": 3,
+                "multiply": 1,
+                "plu": "MG-SAUCES",
+                "posCategoryIds": [],
+                "posProductCategoryId": "",
+                "posProductId": "POS-ID-016",
+                "productTags": [],
+                "productType": 3,
+                "subProducts": [
+                    "63211fe1063a12ba6032fe66",
+                    "63211fe1063a12ba6032fe67"
+                ],
+                "takeawayTax": 9000,
+                "parentId": "63211fe1063a12ba6032fe68",
+                "snoozed": false,
+                "subProductSortOrder": []
+            },
+            "63211fe1063a12ba6032fe63": {
+                "_id": "63211fe1063a12ba6032fe63",
+                "name": "Rice Selection",
+                "description": "",
+                "descriptionTranslations": {},
+                "nameTranslations": {},
+                "account": "60c9c64662af8db836d7aa1a",
+                "capacityUsages": [],
+                "deliveryTax": 9000,
+                "eatInTax": 9000,
+                "location": "61162720f1ba14ed8130f3df",
+                "max": 0,
+                "min": 1,
+                "multiMax": 1,
+                "multiply": 1,
+                "plu": "MG-RICE",
+                "posCategoryIds": [],
+                "posProductCategoryId": "",
+                "posProductId": "POS-ID-010",
+                "productTags": [],
+                "productType": 3,
+                "subProducts": [
+                    "63211fe1063a12ba6032fe64",
+                    "63211fe1063a12ba6032fe68"
+                ],
+                "takeawayTax": 9000,
+                "parentId": "63211fe1063a12ba6032fe62",
+                "snoozed": false,
+                "subProductSortOrder": []
+            },
+            "63211fe1063a12ba6032fe6e": {
+                "_id": "63211fe1063a12ba6032fe6e",
+                "name": "Cooking instructions",
+                "description": "",
+                "descriptionTranslations": {},
+                "nameTranslations": {
+                    "es": "Cocinado",
+                    "fr": "Cuisson",
+                    "nl": "Kook instructies"
+                },
+                "account": "60c9c64662af8db836d7aa1a",
+                "capacityUsages": [],
+                "deliveryTax": 9000,
+                "eatInTax": 9000,
+                "location": "61162720f1ba14ed8130f3df",
+                "max": 1,
+                "min": 1,
+                "multiply": 1,
+                "plu": "MOD-01",
+                "posCategoryIds": [],
+                "posProductCategoryId": "",
+                "posProductId": "POS-ID-002",
+                "productTags": [],
+                "productType": 3,
+                "subProducts": [
+                    "63211fe1063a12ba6032fe6f",
+                    "63211fe1063a12ba6032fe70",
+                    "63211fe1063a12ba6032fe71"
+                ],
+                "takeawayTax": 9000,
+                "parentId": "63211fe1063a12ba6032fe6d",
+                "snoozed": false,
+                "subProductSortOrder": []
+            },
+            "63211fe1063a12ba6032fe72": {
+                "_id": "63211fe1063a12ba6032fe72",
+                "name": "Add a side",
+                "description": "",
+                "descriptionTranslations": {},
+                "nameTranslations": {
+                    "es": "Elige tu acompa\u00f1amiento",
+                    "fr": "Choisissez votre garniture",
+                    "nl": "Kies je bijgerecht"
+                },
+                "account": "60c9c64662af8db836d7aa1a",
+                "capacityUsages": [],
+                "deliveryTax": 9000,
+                "eatInTax": 9000,
+                "location": "61162720f1ba14ed8130f3df",
+                "max": 0,
+                "min": 1,
+                "multiply": 1,
+                "plu": "MOD-02",
+                "posCategoryIds": [],
+                "posProductCategoryId": "",
+                "posProductId": "POS-ID-003",
+                "productTags": [],
+                "productType": 3,
+                "subProducts": [
+                    "63211fe1063a12ba6032fe73",
+                    "63211fe1063a12ba6032fe74",
+                    "63211fe1063a12ba6032fe75"
+                ],
+                "takeawayTax": 9000,
+                "parentId": "63211fe1063a12ba6032fe6d",
+                "snoozed": false,
+                "subProductSortOrder": []
+            }
+        },
+        "modifiers": {
+            "63211fe1063a12ba6032fe66": {
+                "_id": "63211fe1063a12ba6032fe66",
+                "name": "Sate Sauce",
+                "description": "",
+                "price": 50,
+                "productTags": [],
+                "productType": 2,
+                "subProducts": [],
+                "takeawayTax": 9000,
+                "parentId": "63211fe1063a12ba6032fe65",
+                "snoozed": false,
+                "subProductSortOrder": []
+            },
+            "63211fe1062a12ba6032fe66": {
+                "_id": "63211fe1063a12ba6032fe66",
+                "name": "Sate Sauce",
+                "description": "",
+                "price": 50,
+                "productTags": [],
+                "productType": 2,
+                "subProducts": [],
+                "takeawayTax": 9000,
+                "parentId": "63211fe1063a12ba6032fe65",
+                "snoozed": false,
+                "subProductSortOrder": []
+            }
+        },
+        "menuTranslations": {},
+        "nestedModifiers": true,
+        "products": {
+            "63211fe1063a12ba6032fe64": {
+                "_id": "63211fe1063a12ba6032fe64",
+                "name": "White Rice",
+                "description": "White coloured rice",
+                "descriptionTranslations": {},
+                "nameTranslations": {},
+                "account": "60c9c64662af8db836d7aa1a",
+                "capacityUsages": [],
+                "min": 0,
+                "multiply": 1,
+                "plu": "RICE-01",
+                "posCategoryIds": [
+                    "SD"
+                ],
+                "posProductCategoryId": "",
+                "posProductId": "POS-ID-012",
+                "price": 450,
+                "productTags": [],
+                "productType": 1,
+                "subProducts": [
+                    "63211fe1063a12ba6032fe65"
+                ],
+                "takeawayTax": 9000,
+                "parentId": "63211fe1063a12ba6032fe63",
+                "snoozed": false,
+                "subProductSortOrder": []
+            },
+            "63211fe1063a12ba6032fe68": {
+                "_id": "63211fe1063a12ba6032fe68",
+                "name": "Yellow Rice",
+                "description": "White rice with Saffron",
+                "descriptionTranslations": {},
+                "nameTranslations": {},
+                "account": "60c9c64662af8db836d7aa1a",
+                "capacityUsages": [],
+                "multiply": 1,
+                "plu": "RICE-02",
+                "posCategoryIds": [
+                    "SD"
+                ],
+                "posProductCategoryId": "",
+                "posProductId": "POS-ID-013",
+                "price": 450,
+                "productTags": [],
+                "productType": 1,
+                "subProducts": [
+                    "63211fe1063a12ba6032fe65"
+                ],
+                "takeawayTax": 9000,
+                "parentId": "63211fe1063a12ba6032fe63",
+                "snoozed": false,
+                "subProductSortOrder": []
+            }
+        },
+        "productTags": [
+            104,
+            108
+        ],
+        "snoozedProducts": {},
+        "validations": []
+    }
+]
